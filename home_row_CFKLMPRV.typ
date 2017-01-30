@@ -20,63 +20,111 @@ D:kl ned sk ml rit dal est dit lie tia ner sid ide alt lo
  :lit ana eld sir tes isa len set sia ten lna nia tel air 
  :so tid del dra ro nit ras ena sal stl aln all 
 G:MENU
-*:S_LESSON4
-B:Lektion 4
+*:S_LESSON4a
+B:Lektion 4a
 D:min rem sol ok eon oss lind tall nio ritt snar narr tand 
  :inre lera dana dos ton har neri rot anis ska satt hes 
  :mas nos land ask sida dass kil elda tak lita darr dels 
- :rest eder data sans sade lade mil lek kal tant han adel 
+G:S_LESSON4b
+*:S_LESSON4b
+B:Lektion 4b
+D:rest eder data sans sade lade mil lek kal tant han adel 
  :nita lisa ev sina sill real alla inse natt ros leta 
  :leda ende inta drar dam ko roa titt mm dela not anti 
- :aids lik trea rak etta enda hit dala sten tio rida less 
+G:S_LESSON4c
+*:S_LESSON4c
+B:Lektion 4c
+D:aids lik trea rak etta enda hit dala sten tio rida less 
  :rim last lata lins akt man nesa hel eter etsa dart rik 
  :lass aria alm sedd kid anta ort tro stat irra eka arta 
- :dina reta nod inte sak lans anda stel reda tik fe hm 
+G:S_LESSON4d
+*:S_LESSON4d
+B:Lektion 4d
+D:dina reta nod inte sak lans anda stel reda tik fe hm 
  :test son sot eten lam dill tina eks sits till tam arla 
  :lim tenn rede rada elit arm dans ho sira sats ve rann 
- :lira sno diet inne tkr redd oas tala km area enar lada 
+G:S_LESSON4e
+*:S_LESSON4e
+B:Lektion 4e
+D:lira sno diet inne tkr redd oas tala km area enar lada 
  :het sist ost itts rand hed resa lian mat ark stil ense 
  :salt rast sand anse ond ism sned mo om lem med ram idel 
- :sann illa hal anm list sila adla dem hat ansa rasa lida 
+G:S_LESSON4f
+*:S_LESSON4f
+B:Lektion 4f
+D:sann illa hal anm list sila adla dem hat ansa rasa lida 
  :lett ord ske stad kli rita lila lina tele anal sena 
  :kar stal sik ode ratt av lod don rena 
 G:MENU
-*:S_LESSON5
-B:Lektion 5
+*:S_LESSON5a
+B:Lektion 5a
 D:siden fel ave denna redo slana enare innan serie tank 
  :hatt sladd ental nu nalle stod skar tvi alter klan 
  :lama rom ladda stim kila far risk fas liter tima olle 
- :antar skri mitt hall elak ester andre lasta stadd 
+G:S_LESSON5b
+*:S_LESSON5b
+B:Lektion 5b
+D:antar skri mitt hall elak ester andre lasta stadd 
  :neon satin hast heat iland meta klia heta hind hell 
  :neder anod arier senil lilla term mata denne fet rosa 
- :kast sola rinna litet talan tom rasta anka titel ditin 
+G:S_LESSON5c
+*:S_LESSON5c
+B:Lektion 5c
+D:kast sola rinna litet talan tom rasta anka titel ditin 
  :dosa sav slik laser altan sken tarm semi ur laka idka 
  :orda fat oro stek lott hals tills trist rank val kon 
- :inner liden kras annan satsa sona trall kilt rike 
+G:S_LESSON5d
+*:S_LESSON5d
+B:Lektion 5d
+D:inner liden kras annan satsa sona trall kilt rike 
  :div kam rond intar via kind iller sikt dvs mest ven 
  :var sko kor dalta lots diod hiss hade dank nasal sadel 
- :miss mars alias rista dansa lord oren amen hot mana 
+G:S_LESSON5e
+*:S_LESSON5e
+B:Lektion 5e
+D:miss mars alias rista dansa lord oren amen hot mana 
  :detta fil inkl mena roll ut mall vid otal namn inter 
  :trend liv inatt sedan rensa altar trio satan tema 
- :katt estet klo darra hata redan dito linda vad tinne 
+G:S_LESSON5f
+*:S_LESSON5f
+B:Lektion 5f
+D:katt estet klo darra hata redan dito linda vad tinne 
  :hirs stam titta rodd stare sirat tratt takt sort dold 
  :smed mor ideal slem ved tadel slant lista dessa tu 
- :trast titan mala like istid andel same ork akta silo 
+G:S_LESSON5g
+*:S_LESSON5g
+B:Lektion 5g
+D:trast titan mala like istid andel same ork akta silo 
  :stall larm radie mera iddes satir torr klen sold vet 
  :inka loss dato liera lom randa hare lev kran kiss kana 
- :sond kris sadla tron vin fri hane tekn stena aska du 
+G:S_LESSON5h
+*:S_LESSON5h
+B:Lektion 5h
+D:sond kris sadla tron vin fri hane tekn stena aska du 
  :idol dress sitta eko nord siare start isatt sams lille 
  :nedre dilla fin karl fal hasa leka intet smil samt 
- :eller mos linne ref deras asiat halt vas snitt dom 
+G:S_LESSON5i
+*:S_LESSON5i
+B:Lektion 5i
+D:eller mos linne ref deras asiat halt vas snitt dom 
  :siren dok kall klar etik mina landa orm mini skit sedel 
  :sinne strid ment salta dika hand latin atlas odla 
- :nitti annat aster mol vit ister delta otid andra slira 
+G:S_LESSON5j
+*:S_LESSON5j
+B:Lektion 5j
+D:nitti annat aster mol vit ister delta otid andra slira 
  :drill tassa herr hets snor matt sekt slita rask snara 
  :tadla snida sank kisa heds skal dike lav hela rama 
- :rev arv torn tok alert andas testa mod eldar disk skir 
+G:S_LESSON5k
+*:S_LESSON5k
+B:Lektion 5k
+D:rev arv torn tok alert andas testa mod eldar disk skir 
  :avi nedan dona atlet stol arena tona satte dolt resen 
  :senat trind stor slak lok etter allo oral mild dikt 
- :odds avd kol rota som hem olat smal raka mast reell 
+G:S_LESSON5l
+*:S_LESSON5l
+B:Lektion 5l
+D:odds avd kol rota som hem olat smal raka mast reell 
  :allra kod kela antal team sorl areal orre trim neka 
  :trasa kant kitt vis 
 G:MENU
@@ -1112,8 +1160,24 @@ M: "Lektion 1 till 32"
  :S_LESSON1 "Lektion 1"
  :S_LESSON2 "Lektion 2"
  :S_LESSON3 "Lektion 3"
- :S_LESSON4 "Lektion 4"
- :S_LESSON5 "Lektion 5"
+ :S_LESSON4a "Lektion 4a"
+ :S_LESSON4b "Lektion 4b"
+ :S_LESSON4c "Lektion 4c"
+ :S_LESSON4d "Lektion 4d"
+ :S_LESSON4e "Lektion 4e"
+ :S_LESSON4f "Lektion 4f"
+ :S_LESSON5a "Lektion 5a"
+ :S_LESSON5b "Lektion 5b"
+ :S_LESSON5c "Lektion 5c"
+ :S_LESSON5d "Lektion 5d"
+ :S_LESSON5e "Lektion 5e"
+ :S_LESSON5f "Lektion 5f"
+ :S_LESSON5g "Lektion 5g"
+ :S_LESSON5h "Lektion 5h"
+ :S_LESSON5i "Lektion 5i"
+ :S_LESSON5j "Lektion 5j"
+ :S_LESSON5k "Lektion 5k"
+ :S_LESSON5l "Lektion 5l"
  :S_LESSON6 "Lektion 6"
  :S_LESSON7 "Lektion 7"
  :S_LESSON8 "Lektion 8"
