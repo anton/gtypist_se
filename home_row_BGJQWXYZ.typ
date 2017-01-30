@@ -17,30 +17,45 @@ D:att dis ena set ana nia sed dia tid syn ten ess den sid
  :ha est sen det so os dit ann nys isa hy and sia dyn ned 
  :yta tia ge ide tes syd ag nit 
 G:MENU
-*:S_LESSON4
-B:Lektion 4
+*:S_LESSON4a
+B:Lektion 4a
 D:dina not tyda enda gay tyg nysa ode nio anti satt diet 
  :watt hes inte natt agn tag sand test inta nita hat ond 
  :sats don ansa gin anda tina ende sno neg dana etsa sten 
- :tand sig sina dig seg gas nesa syna aga anse deg ho sned 
+G:S_LESSON4b
+*:S_LESSON4b
+B:Lektion 4b
+D:tand sig sina dig seg gas nesa syna aga anse deg ho sned 
  :stad sedd sist teg inne dans tyst dag tyna get titt 
  :data tenn stat tio sade dos etta hg het son anta etyd 
- :sits hed tant ton dass sann nos synd eten sans han sot 
+G:S_LESSON4c
+*:S_LESSON4c
+B:Lektion 4c
+D:sits hed tant ton dass sann nos synd eten sans han sot 
  :oas gny gen inse oss eon aids dyna nod sida ense itts 
  :hit ost sena anis 
 G:MENU
-*:S_LESSON5
-B:Lektion 5
+*:S_LESSON5a
+B:Lektion 5a
 D:stena sedan inatt snitt denne dito tinne annat hade 
  :bi intet hasa egen satan dosa igen heds god gno sinne 
  :asiat testa synda staty enig stod detta stig inga 
- :innan snyta insyn dona otid essay hyss odds dansa 
+G:S_LESSON5b
+*:S_LESSON5b
+B:Lektion 5b
+D:innan snyta insyn dona otid essay hyss odds dansa 
  :hand agas stadd hatt inge ego geni isatt daga nysta 
  :hind satte hast heat gast by nu dygn sond isig steg 
- :hysa du tiga ditin dandy niga agat snida egg tog estet 
+G:S_LESSON5c
+*:S_LESSON5c
+B:Lektion 5c
+D:hysa du tiga ditin dandy niga agat snida egg tog estet 
  :ut hata istid idag saga heta dessa neon taga gadd iddes 
  :diod sagt tysta be satin sitta tona denna annan dato 
- :senat ange ting sona agg tu hets hot gest agna titan 
+G:S_LESSON5d
+*:S_LESSON5d
+B:Lektion 5d
+D:senat ange ting sona agg tu hets hot gest agna titan 
  :gata anod dygd got nedan sagd hytt hiss hane siden 
  :gasa andas satsa tassa titta nyans nitti gena nytta 
 G:MENU
@@ -257,8 +272,13 @@ M: "Lektion 1 till 30"
  :S_LESSON1 "Lektion 1"
  :S_LESSON2 "Lektion 2"
  :S_LESSON3 "Lektion 3"
- :S_LESSON4 "Lektion 4"
- :S_LESSON5 "Lektion 5"
+ :S_LESSON4a "Lektion 4a"
+ :S_LESSON4b "Lektion 4b"
+ :S_LESSON4c "Lektion 4c"
+ :S_LESSON5a "Lektion 5a"
+ :S_LESSON5b "Lektion 5b"
+ :S_LESSON5c "Lektion 5c"
+ :S_LESSON5d "Lektion 5d"
  :S_LESSON6 "Lektion 6"
  :S_LESSON7 "Lektion 7"
  :S_LESSON8 "Lektion 8"
